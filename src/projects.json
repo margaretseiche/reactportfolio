@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Travel Planner",
+    "github": "https://github.com/margaretseiche/Project-1-Playground",
+    "deployed": "https://margaretseiche.github.io/Project-1-Playground/",
+    "image": "/assets/TravelPlanner.JPG",
+    "alt": "travel planning website",
+    "text": "Partnered with 4 other developers to create a trip search engine using 3 APIs"
+  },
+  {
+    "id": 2,
+    "title": "Password Generator",
+    "github": "https://github.com/margaretseiche/05212020-Password-Generator",
+    "deployed": "https://margaretseiche.github.io/05212020-Password-Generator/",
+    "image": "/assets/PasswordGenerator.JPG",
+    "alt": "snapshot of password generator",
+    "text": "Created a means for users to generate random passwords with specified criteria"
+  },
+  {
+    "id": 3,
+    "title": "Day Planner with Weather Update",
+    "github": "https://github.com/margaretseiche/07072020-DayPlannerAndWeather",
+    "deployed": "https://margaretseiche.github.io/07072020-DayPlannerAndWeather/",
+    "image": "/assets/DayPlanner.JPG",
+    "alt": "day planner",
+    "text": "Used Moment.js, local storage, and a weather API to create a scheduling app"
+  },
+  {
+    "id": 4,
+    "title": "Burger App",
+    "github": "https://github.com/margaretseiche/08082020-Handlebars-Burgers",
+    "deployed": "https://mburgerapp.herokuapp.com",
+    "image": "/assets/local4.JPG",
+    "alt": "burger ordering application",
+    "text": "Deployed a food ordering app on Heroku with MySQL and Handlebars"
+  },
+  {
+    "id": 5,
+    "title": "Team Directory",
+    "github": "https://github.com/margaretseiche/07162020-EmployeeDirectory",
+    "deployed": "https://youtu.be/yS8ZmDgy3n8",
+    "image": "/assets/EmployeeDirectory.JPG",
+    "alt": "team directory",
+    "text": "Developed a Command Line Interface for creating a team profile webpage with Handlebars"
+  },
+  {
+    "id": 6,
+    "title": "ReadMe Generator",
+    "github": "https://github.com/margaretseiche/07112020-ReadmeGenerator",
+    "deployed": "https://youtu.be/C4KLrUpt-M8",
+    "image": "/assets/ReadMeDemo.JPG",
+    "alt": "ReadMe generator",
+    "text": "Created a command line interface for developers to make formatted ReadMe files"
+  },
+  {
+    "id": 7,
+    "title": "Workout App",
+    "github": "https://github.com/margaretseiche/09022020-WorkoutTracker",
+    "deployed": "https://immense-ridge-32351.herokuapp.com/",
+    "image": "/assets/fitness.JPG",
+    "alt": "Workout App",
+    "text": "Created a fitness app to track daily workouts using a Mongoose database"
+  },
+  {
+    "id": 8,
+    "title": "Budget Tracker",
+    "github": "https://github.com/margaretseiche/09102020-BudgetTracker",
+    "deployed": "https://powerful-reaches-00668.herokuapp.com/",
+    "image": "/assets/budget.JPG",
+    "alt": "Budget Tracker",
+    "text": "Designed a budget app that allows offline records to be synced later with Mongo database"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Github",
+    "reference": "https://github.com/margaretseiche",
+    "image": "/assets/socialmedia/Github-gray.png",
+    "alt": "Github link",
+    "title": "Github link"
+  },
+  {
+    "id": 2,
+    "name": "LinkedIn",
+    "reference": "https://www.linkedin.com/in/margaret-seiche-06451743/",
+    "image": "/assets/socialmedia/LinkedIn-gray.png",
+    "alt": "LinkedIn link",
+    "title": "LinkedIn link"
+  },
+  {
+    "id": 3,
+    "name": "Email",
+    "reference": "mailto:margaretseiche@hotmail.com",
+    "image": "/assets/socialmedia/Email-gray.png",
+    "alt": "Email link",
+    "title": "Email link"
+  },
+  {
+    "id": 4,
+    "name": "Facebook",
+    "reference": "https://www.facebook.com/margaret.seiche/",
+    "image": "/assets/socialmedia/Facebook-gray.png",
+    "alt": "Facebook link",
+    "title": "Facebook link"
+  },
+  {
+    "id": 5,
+    "name": "Instagram",
+    "reference": "https://www.instagram.com/margaretseiche/",
+    "image": "/assets/socialmedia/Instagram-gray.png",
+    "alt": "Instagram link",
+    "title": "Instagram link"
+  }
+]

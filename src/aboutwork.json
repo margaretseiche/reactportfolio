@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Marketing",
+    "alt": "Marketing",
+    "line1": "* Launched websites on multiple platforms",
+    "line2": "* Certified in full-stack development",
+    "line3": "* 5 years in direct sales"
+  },
+  {
+    "id": 2,
+    "title": "Event Management",
+    "alt": "Event Management",
+    "line1": "* Led 9 teams concurrently",
+    "line2": "* Expanded from 2 to 5 annual conferences",
+    "line3": "* Grew revenue while cutting fixed costs"
+  },
+  {
+    "id": 3,
+    "title": "Financial Analysis",
+    "alt": "Financial Analysis",
+    "line1": "* Developed event budgets and evaluation",
+    "line2": "* Standardized cash controls at a non-profit",
+    "line3": "* Analyzed contracts during restructuring"
+  }
+]

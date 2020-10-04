@@ -1,0 +1,14 @@
+#social {
+  max-height: 90px;
+  padding-top:10px;
+  padding-bottom:10px;
+  display:block;
+  margin:auto;
+  margin: 30px;
+  justify-content: center;
+}
+
+input[type=email], input[type=text], textarea {
+  width: 100%;
+  resize: vertical;
+}

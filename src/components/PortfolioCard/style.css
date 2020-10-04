@@ -1,0 +1,41 @@
+.card {
+  background: #d5ddfd;
+  border-radius: 2px;
+  height: 19em;
+  margin: 1.2rem;
+  position: relative;
+  width: 16em;
+  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  text-align: left;
+  justify-content: center;
+}
+
+.card > .img-container {
+  height: 60%;
+  overflow: hidden;
+  text-align: center;
+}
+.card > .img-container > img {
+  width: 100%
+}
+
+.card > .content {
+  background: #d5ddfd;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  font-size: 15px;
+}
+
+.portfolioButton {
+  background-color: #4537c2;
+  margin: 15px;
+  padding: 5px;
+  text-align: center;
+  justify-content: center;
+  align-content: center;
+  /* float: right; */
+  border-radius: 5px;
+  color: white;
+  display: inline-block;
+  width: 35%;
+}
